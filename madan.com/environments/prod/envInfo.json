@@ -1,0 +1,18 @@
+{
+    "name": "prod",
+    "propertyName": "prod.madan.com",
+    "groupId": 48733,
+    "isSecure": false,
+    "propertyId": 622840,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "itvvy4d7rbnuce5v",
+        "updatedDate": "2020-05-23T08:01:30Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "etag": "5a47eea286e5f59ebcf1ac27a5ccb724dfab51fb",
+        "productId": "prd_SPM",
+        "ruleFormat": "latest"
+    },
+    "suggestedRuleFormat": "v2020-03-04"
+}

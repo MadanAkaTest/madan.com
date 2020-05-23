@@ -1,0 +1,8 @@
+[
+    {
+        "cnameFrom": "prod.madan.com",
+        "cnameTo": "prod.madan.com.edgesuite.net",
+        "cnameType": "EDGE_HOSTNAME",
+        "edgeHostnameId": null
+    }
+]

@@ -1,0 +1,66 @@
+{
+    "name": "dev",
+    "propertyName": "dev.madan.com",
+    "groupId": 48733,
+    "isSecure": false,
+    "propertyId": 622839,
+    "latestVersionInfo": {
+        "propertyVersion": 2,
+        "updatedByUser": "itvvy4d7rbnuce5v",
+        "updatedDate": "2020-05-23T08:50:50Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "PENDING",
+        "etag": "763c96c6a87fdbd8770614b2884e1e96b09dff1d",
+        "productId": "prd_SPM",
+        "ruleFormat": "v2020-03-04"
+    },
+    "suggestedRuleFormat": "v2020-03-04",
+    "environmentHash": "de2c2d23b31c6c6a07c3867677163d6891a0a42f577a9c2fa1b5eb8e9b52010d",
+    "ruleTreeHash": "94a29a01f7f0708e7e4e0ccba2fd8ed6874ca7b69c1fccf6e2163fdfc6f58310",
+    "lastSavedHash": "de2c2d23b31c6c6a07c3867677163d6891a0a42f577a9c2fa1b5eb8e9b52010d",
+    "lastValidatedHash": "de2c2d23b31c6c6a07c3867677163d6891a0a42f577a9c2fa1b5eb8e9b52010d",
+    "lastSaveWarnings": [
+        {
+            "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.ssl_delegate_warning_rotate",
+            "errorLocation": {
+                "template": "templates/main.json",
+                "variables": [],
+                "location": "rules/behaviors/0",
+                "value": {
+                    "name": "origin",
+                    "options": {
+                        "cacheKeyHostname": "ORIGIN_HOSTNAME",
+                        "compress": true,
+                        "enableTrueClientIp": false,
+                        "forwardHostHeader": "REQUEST_HOST_HEADER",
+                        "httpPort": 80,
+                        "httpsPort": 443,
+                        "originSni": true,
+                        "originType": "CUSTOMER",
+                        "verificationMode": "PLATFORM_SETTINGS",
+                        "hostname": "origin-dev.madan.com",
+                        "originCertificate": "",
+                        "ports": ""
+                    }
+                }
+            },
+            "detail": "If your `Origin Server` uses HTTPS, make sure to follow <a href=\"/dl/property-manager/property-manager-help/csh_lookup.html?id=PM_0034\" target=\"_blank\">this procedure</a> to avoid a service outage or a security breach when you rotate your origin's certificate."
+        }
+    ],
+    "lastSaveErrors": [],
+    "lastSaveHostnameErrors": [],
+    "lastSavedHostnamesHash": "5d69d4961ae1258592fc0addc127b2795a2e92a43c80654251b979a31a15af13",
+    "activeIn_STAGING_Info": {
+        "propertyVersion": 1,
+        "updatedByUser": "itvvy4d7rbnuce5v",
+        "updatedDate": "2020-05-23T08:30:42Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "03a50a6a794862393a8094108e2495cdc0d5eded",
+        "productId": "prd_SPM",
+        "ruleFormat": "v2020-03-04"
+    },
+    "pendingActivations": {
+        "STAGING": 8517379
+    }
+}

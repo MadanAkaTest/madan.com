@@ -1,0 +1,17 @@
+{
+    "productId": "prd_SPM",
+    "contractId": "ctr_3-16TH61E",
+    "groupIds": [
+        48733
+    ],
+    "environments": [
+        "dev",
+        "prod"
+    ],
+    "version": "0.3.6",
+    "isSecure": false,
+    "edgeGridConfig": {
+        "section": "papi"
+    },
+    "name": "madan.com"
+}

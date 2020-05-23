@@ -1,0 +1,20 @@
+{
+    "definitions": {
+        "originHostname": {
+            "type": "hostname",
+            "default": null
+        },
+        "cpCode": {
+            "type": "cpCode",
+            "default": null
+        },
+        "ttl": {
+            "type": "ttl",
+            "default": null
+        },
+        "sureRouteTestObject": {
+            "type": "url",
+            "default": "/akamai/sure-route-test-object.html"
+        }
+    }
+}
