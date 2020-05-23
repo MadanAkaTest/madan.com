@@ -5,20 +5,20 @@
     "isSecure": false,
     "propertyId": 622839,
     "latestVersionInfo": {
-        "propertyVersion": 2,
+        "propertyVersion": 3,
         "updatedByUser": "itvvy4d7rbnuce5v",
-        "updatedDate": "2020-05-23T08:50:50Z",
+        "updatedDate": "2020-05-23T19:48:21Z",
         "productionStatus": "INACTIVE",
-        "stagingStatus": "PENDING",
-        "etag": "763c96c6a87fdbd8770614b2884e1e96b09dff1d",
+        "stagingStatus": "INACTIVE",
+        "etag": "8bdabe222477842b0c55940b5a9f6c14ce310f8f",
         "productId": "prd_SPM",
         "ruleFormat": "v2020-03-04"
     },
     "suggestedRuleFormat": "v2020-03-04",
-    "environmentHash": "de2c2d23b31c6c6a07c3867677163d6891a0a42f577a9c2fa1b5eb8e9b52010d",
-    "ruleTreeHash": "94a29a01f7f0708e7e4e0ccba2fd8ed6874ca7b69c1fccf6e2163fdfc6f58310",
+    "environmentHash": "cb747584b98b302b4eccac4c1194218d063377e4aadd286cb10ad0866a961b49",
+    "ruleTreeHash": "5c4c62c53666b591070f36ce3a1092ac69faaeb268239d314fa31dd3f6d2b6e3",
     "lastSavedHash": "de2c2d23b31c6c6a07c3867677163d6891a0a42f577a9c2fa1b5eb8e9b52010d",
-    "lastValidatedHash": "de2c2d23b31c6c6a07c3867677163d6891a0a42f577a9c2fa1b5eb8e9b52010d",
+    "lastValidatedHash": "cb747584b98b302b4eccac4c1194218d063377e4aadd286cb10ad0866a961b49",
     "lastSaveWarnings": [
         {
             "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.ssl_delegate_warning_rotate",
@@ -51,16 +51,13 @@
     "lastSaveHostnameErrors": [],
     "lastSavedHostnamesHash": "5d69d4961ae1258592fc0addc127b2795a2e92a43c80654251b979a31a15af13",
     "activeIn_STAGING_Info": {
-        "propertyVersion": 1,
+        "propertyVersion": 2,
         "updatedByUser": "itvvy4d7rbnuce5v",
-        "updatedDate": "2020-05-23T08:30:42Z",
+        "updatedDate": "2020-05-23T08:53:09Z",
         "productionStatus": "INACTIVE",
         "stagingStatus": "ACTIVE",
-        "etag": "03a50a6a794862393a8094108e2495cdc0d5eded",
+        "etag": "763c96c6a87fdbd8770614b2884e1e96b09dff1d",
         "productId": "prd_SPM",
         "ruleFormat": "v2020-03-04"
-    },
-    "pendingActivations": {
-        "STAGING": 8517379
     }
 }

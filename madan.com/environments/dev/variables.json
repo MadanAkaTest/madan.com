@@ -2,5 +2,5 @@
     "originHostname": "origin-dev.madan.com",
     "cpCode": 288365,
     "sureRouteTestObject": "/akamai/dev_sr.html",
-    "ttl": "7d"
+    "ttl": "10d"
 }
