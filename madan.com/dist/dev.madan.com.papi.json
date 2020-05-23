@@ -157,7 +157,7 @@
                                 "options": {
                                     "behavior": "MAX_AGE",
                                     "mustRevalidate": false,
-                                    "ttl": "7d"
+                                    "ttl": "10d"
                                 }
                             },
                             {
@@ -384,7 +384,7 @@
                 "name": "allowPost",
                 "options": {
                     "allowWithoutContentLength": false,
-                    "enabled": true
+                    "enabled": false
                 }
             }
         ],
